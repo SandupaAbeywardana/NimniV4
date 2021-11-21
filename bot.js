@@ -132,17 +132,17 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
         });
 // ════════════════════PLUGGINS SUCCESS◽◽◽◽
         console.log(
-            chalk.green.bold('👩‍🦰AMAZONE ALEXA working!')
+            chalk.green.bold('★¸.•☆•.¸★ 👸 🅀🅄🄴🄴🄽 🄽🄸🄼🄽🄸 🄾🄵🄵🄸🄲🄸🄰🄻 👸 ★⡀.•☆•.★ working!')
        );
         
          if (config.LANG == 'EN') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: `🛸🚀Hey..!!  ${conn.user.name}! \n*🧞‍♀️Welcome To Amazon Alexa :|🌼*\n Your Bot Working  As ${config.WORKTYPE} 👩‍🦰.\n\n*🛸Amozon Alexa WORKING Your Account*\n*👩‍🦰Use the 🚀.basichelp command to get a full understanding of the Amazon Alexa testimonial...*\n*👩‍🦰Amazon Alexa is a powerfull WhatsApp robot developed by insaaf.*\n*🚀 This is your LOG number. Avoid using the command here.*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: `🛸🚀Hey..!!  ${conn.user.name}! \n*🧞‍♀️Welcome To Queen Nimni :|🌼*\n Your Bot Working  As ${config.WORKTYPE} 👩‍🦰.\n\n*🛸Queen Nimni WORKING Your Account*\n*👩‍🦰Use the 🚀.basichelp command to get a full understanding of the Queen Nimni testimonial...*\n* ★¸.•☆•.¸★ 👸 🅀🅄🄴🄴🄽 🄽🄸🄼🄽🄸 🄾🄵🄵🄸🄲🄸🄰🄻 👸 ★⡀.•☆•.★ is a powerfull WhatsApp robot developed by CyberMatrix.*\n*🚀 This is your LOG number. Avoid using the command here.*\n\n`});
              
          } else if (config.LANG == 'SI') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: `🛸🚀Hey..!!  ${conn.user.name}! \n*🧞‍♀️සාදරයෙන් Amazone Alexa වෙත පිලිගන්නවා :|🌼*\n\n ඔබේ Bot ${config.WORKTYPE} ලෙස ක්‍රියාකරයි.\n*🛸Amozon Alexa ඔබගේ ගිණුමේ දැන් සක්‍රියයි*\n*💠Amazone Alexa පිළිබද සම්පූර්ණ අවබෝධයක් ලබා ගැනීමට 🔶.basichelp විධානය භාවිතා කරන්න...*\n*🌟Amazone Alexa යනූ සීඝ්‍රයෙන් වර්ධනය වන Whatsapp රොබෝවෙකි..Alexa වෙත ලැබෙන නව අංග හා යතාවත්කාලින කිරිම් ලබා ගැනීමට 🔶 .newslist විධානය භාවිතා කරන්න..*\n*🚀මෙය ඔබගේ LOG අංකයයි.මෙහි විධාන භාවිතයෙන් වළකින්න.*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: `🛸🚀Hey..!!  ${conn.user.name}! \n*🧞‍♀️සාදරයෙන් Queen Nimni වෙත පිලිගන්නවා :|🌼*\n\n ඔබේ Bot ${config.WORKTYPE} ලෙස ක්‍රියාකරයි.\n*🛸Queen Nimni ඔබගේ ගිණුමේ දැන් සක්‍රියයි*\n*Queen Nimni පිළිබද සම්පූර්ණ අවබෝධයක් ලබා ගැනීමට 🔶.basichelp විධානය භාවිතා කරන්න...*\n* ★¸.•☆•.¸★ 👸 🅀🅄🄴🄴🄽 🄽🄸🄼🄽🄸 🄾🄵🄵🄸🄲🄸🄰🄻 👸 ★⡀.•☆•.★ යනූ සීඝ්‍රයෙන් වර්ධනය වන Whatsapp රොබෝවෙකි..Queen Nimni වෙත ලැබෙන නව අංග හා යතාවත්කාලින කිරිම් ලබා ගැනීමට 🔶 .newslist විධානය භාවිතා කරන්න..*\n*🚀මෙය ඔබගේ LOG අංකයයි.මෙහි විධාන භාවිතයෙන් වළකින්න.*\n\n`});
              
          } else {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: `🛸🚀Hey..!!  ${conn.user.name}! \n*🧞‍♀️Welcome To Amazon Alexa :|🌼*\n Your Bot Working  As ${config.WORKTYPE} 👩‍🦰.\n\n*🛸Amozon Alexa WORKING Your Account*\n*👩‍🦰Use the 🚀.basichelp command to get a full understanding of the Amazon Alexa testimonial...*\n*👩‍🦰Amazon Alexa is a powerfull WhatsApp robot developed by insaaf.*\n*🚀 This is your LOG number. Avoid using the command here.*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: `🛸🚀Hey..!!  ${conn.user.name}! \n*🧞‍♀️Welcome To Queen Nimni :|🌼*\n Your Bot Working  As ${config.WORKTYPE} 👩‍🦰.\n\n*🛸Queen Nimni WORKING Your Account*\n*👩‍🦰Use the 🚀.basichelp command to get a full understanding of the Queen Nimni testimonial...*\n* ★¸.•☆•.¸★ 👸 🅀🅄🄴🄴🄽 🄽🄸🄼🄽🄸 🄾🄵🄵🄸🄲🄸🄰🄻 👸 ★⡀.•☆•.★ is a powerfull WhatsApp robot developed by CyberMatrix.*\n*🚀 This is your LOG number. Avoid using the command here.*\n\n`});
         }
      });
     
@@ -153,126 +153,126 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
                 var ov_time = new Date().toLocaleString('LK', { timeZone: 'Europe/Istanbul' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('994')) { 
                 var ov_time = new Date().toLocaleString('AZ', { timeZone: 'Asia/Baku' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('94')) { 
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('LK', { timeZone: 'Asia/Colombo' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio B... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio B... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('351')) { 
                 var ov_time = new Date().toLocaleString('PT', { timeZone: 'Europe/Lisbon' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('75')) { 
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('RU', { timeZone: 'Europe/Kaliningrad' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By Whitedevil'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('91')) { 
                 var ov_time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('62')) { 
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('ID', { timeZone: 'Asia/Jakarta' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('49')) { 
                 var ov_time = new Date().toLocaleString('DE', { timeZone: 'Europe/Berlin' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('61')) {  
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('AU', { timeZone: 'Australia/Lord_Howe' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('55')) { 
                 var ov_time = new Date().toLocaleString('BR', { timeZone: 'America/Noronha' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('33')) {
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('FR', { timeZone: 'Europe/Paris' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('34')) { 
                 var ov_time = new Date().toLocaleString('ES', { timeZone: 'Europe/Madrid' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('44')) { 
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('GB', { timeZone: 'Europe/London' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('39')) {  
                 var ov_time = new Date().toLocaleString('IT', { timeZone: 'Europe/Rome' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('7')) { 
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('KZ', { timeZone: 'Asia/Almaty' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('998')) {  
                 var ov_time = new Date().toLocaleString('UZ', { timeZone: 'Asia/Samarkand' }).split(' ')[1]
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time + '\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else if (conn.user.jid.startsWith('993')) { 
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('TM', { timeZone: 'Asia/Ashgabat' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
             else {
                 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
                 var utch = new Date().toLocaleDateString(config.LANG, get_localized_date)
                 var ov_time = new Date().toLocaleString('EN', { timeZone: 'America/New_York' }).split(' ')[1]
-                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Amazone Alexa'
+                const biography = '📅 ' + utch + '\n⌚ ' + ov_time +'\n\n⏱ Auto Bio By ... 🚀powered By Queen Nimni'
                 await conn.setStatus(biography)
             }
         }
@@ -284,12 +284,12 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
          
         while (getGMTh == 19 && getGMTm == 1) {
             var announce = ''
-            if (config.LANG == 'EN') announce = '📢◉◉👩‍🦰ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ◉◉ \n👾Announcement SYSTEM 🔘'
-            if (config.LANG == 'SI') announce = '📢◉◉👩‍🦰ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ◉◉ \n👾නිවේදන පද්ධතිය 🔘'
-            if (config.LANG == 'ID') announce = '📢◉◉👩‍🦰ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ◉◉ \n👾Announcement System 🔘'
+            if (config.LANG == 'EN') announce = '📢◉◉👩‍🦰Queen Nimni◉◉ \n👾Announcement SYSTEM 🔘'
+            if (config.LANG == 'SI') announce = '📢◉◉👩‍🦰Queen Nimni◉◉ \n👾නිවේදන පද්ධතිය 🔘'
+            if (config.LANG == 'ID') announce = '📢◉◉👩‍🦰Queen Nimni◉◉ \n👾Announcement System 🔘'
             
             let video = 'https://imgur.com/u9LLLGV.mp4'
-            let image = 'https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg'
+            let image = 'https://telegra.ph/file/063d15e233d9114861753.png'
             
             if (video.includes('http') || video.includes('https')) {
                 var VID = video.split('youtu.be')[1].split(' ')[0].replace('/', '')
@@ -430,13 +430,13 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
                             await command.function(whats, match);
                         } catch (error) {
                             if (config.LANG == 'EN') {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀AMAZONE ALEXA*  WORKING PERFECTLY !!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_👾Support 01▷https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48\n\n*Error:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀Queen Nimni*  WORKING PERFECTLY !!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n\n*Error:* ```' + error + '```\n\n' });
                                 
                             } else if (config.LANG == 'SI') {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀AMAZONE ALEXA*  නිසි ලෙස ක්‍රියා කරයි!!\n\n▷ _මෙය ඔබගේ LOG අංකයයි මෙහි විධන භාවිතයෙන් වළකින්න_\n▷ඔබට යම් ගැටලුවක් ඇත්නම් අපගේ සහය සමූහට ලිවිය හැක.\n_👾Support 01▷https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48\n\n*දෝෂය:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀Queen Nimni*  නිසි ලෙස ක්‍රියා කරයි!!\n\n▷ _මෙය ඔබගේ LOG අංකයයි මෙහි විධන භාවිතයෙන් වළකින්න_\n▷ඔබට යම් ගැටලුවක් ඇත්නම් අපගේ සහය සමූහට ලිවිය හැක.\n\n*දෝෂය:* ```' + error + '```\n\n' });
                                 
                             } else {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀AMAZONE ALEXA*  WORKING PERFECTLY !!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_👾Support 01▷https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48\n\n*Error:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀Queen Nimni*  WORKING PERFECTLY !!\n\n▷ _This is your LOG number Dont Try Command here_\n\n*Error:* ```' + error + '```\n\n' });
                             }
                         }
                     }
