@@ -1,11 +1,11 @@
 {
-    "name": "Amazone Alexa V8",
-    "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
-    "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
+    "name": "Queen_NimniV4",
+    "description": "Queen Nimni is a chat bot for WhatsApp. Makes it easy and Working perfectly",
+    "logo": "https://telegra.ph/file/063d15e233d9114861753.png",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
-    "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
-    "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
+    "repository": "",
+    "website":   "",
+    "success_url": "",
     "stack": "container",
     "env": {
         "NEUTRO_SESSION": {
@@ -29,7 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "★¸.•☆•.¸★ 👸 🅀🅄🄴🄴🄽 🄽🄸🄼🄽🄸 🄾🄵🄵🄸🄲🄸🄰🄻 👸 ★⡀.•☆•.★"
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 👩‍🦰Amazone Alexa"
+            "value": "Made By ★¸.•☆•.¸★ 👸 🅀🅄🄴🄴🄽 🄽🄸🄼🄽🄸 🄾🄵🄵🄸🄲🄸🄰🄻 👸 ★⡀.•☆•.★"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -112,7 +112,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg"
+            "value": "https://telegra.ph/file/063d15e233d9114861753.png"
         },
         "WELCOME_GIF": {
             "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
@@ -167,7 +167,7 @@
         "PANEL_COMMAND": {
             "description": "Customizeable commands list request command. Keep alexa if you don't want to change.",
             "required": true,
-            "value": "alexa"
+            "value": "nimni"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
@@ -236,7 +236,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
+            "value": "★¸.•☆•.¸★ 👸 🅀🅄🄴🄴🄽 🄽🄸🄼🄽🄸 🄾🄵🄵🄸🄲🄸🄰🄻 👸 ★⡀.•☆•.★ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️CyberMatrix. Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ Queen Nimni ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
         }
     },
     "addons": [{
