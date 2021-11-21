@@ -1,7 +1,7 @@
-/* Copyright (C) 2021 TENUX-Neotro.
+/* Copyright (C) 2021 CyberMatrix.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-NEOTROX - TEENUHX
+Colombo Media House - CyberMatrix
 */
 
 const chalk = require('chalk');
@@ -13,14 +13,14 @@ async function whatsAsena() {
   conn.version = [2, 2126, 14]
 
   conn.on('connecting', async () => {
-    console.log(`${chalk.green.bold('Amazone Alexa')}${chalk.green.bold('Team')}
-${chalk.white.italic('amazone String code recipient')}
-${chalk.blue.bold('ℹ️  Connecting alexa... Please wait.')}`);
+    console.log(`${chalk.green.bold('Queen Nimni')}${chalk.green.bold('Team')}
+${chalk.white.italic('Nimni String code recipient')}
+${chalk.blue.bold('ℹ️  Connecting Nimni... Please wait.')}`);
   });
 
   conn.on('open', async () => {
     console.log(
-      chalk.green.bold('Alexa QR Code: '),
+      chalk.green.bold('Queen Nimni QR Code: '),
       'NEUTRO;;;' +
       Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
         'base64'
@@ -37,13 +37,13 @@ ${chalk.blue.bold('ℹ️  Connecting alexa... Please wait.')}`);
     if (conn.user.jid.startsWith('91')) {
       await conn.sendMessage(
         conn.user.jid,
-        '*~___________~* *'+ conn.user.name + ' ~___________~*\n\n*▪️ Amazone Scanned✅️*\n*▪️Thanks For Choosing Amazone 💞*',
+        '*~___________~* *'+ conn.user.name + ' ~___________~*\n\n*▪️ Nimni Scanned✅️*\n*▪️Thanks For Choosing Queen Nimni 💞*',
         MessageType.text
       );
     } else {
       await conn.sendMessage(
         conn.user.jid,
-        '*~_____________~* *'+ conn.user.name + ' ~_____________~*\n\n*▪️ Amazone Successfully Scanned✅️*\n*▪️Thanks For Choosing Amazone 💞*',
+        '*~_____________~* *'+ conn.user.name + ' ~_____________~*\n\n*▪️ Nimni Successfully Scanned✅️*\n*▪️Thanks For Choosing Queen Nimni 💞*',
         MessageType.text
       );
     }
