@@ -138,10 +138,10 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## 👨‍💻Developer
 
-[![SanX98](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![SanX98](https://telegra.ph/SanX98-11-21)]
 
- ***Sandupa Abeywardana(🅲🆈🅱🅴🆁 🅼🅰🆃🆁🅸🆇)***
+ **Sandupa Abeywardana(🅲🆈🅱🅴🆁 🅼🅰🆃🆁🅸🆇)**
 
-[![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
-[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/SanX__98)
+[![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@SanX98)
+[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://www.instagram.com/sanx__98/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94767912651)
