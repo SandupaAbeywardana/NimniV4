@@ -1,13 +1,7 @@
-#### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
-    
-</a>          
-
+#### © Queen Nimni Official
 
 </a>
 
-![logo](https://fzstream.techwizardent.com/90054)
 <h1 align="center"><b> ★¸.•☆•.¸★ 👸 🅀🅄🄴🄴🄽 🄽🄸🄼🄽🄸 🄾🄵🄵🄸🄲🄸🄰🄻 👸 ★⡀.•☆•.★ </b></h1>
 
 </a>
